@@ -4,6 +4,10 @@
 </p>
 
 ---
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwatiDhanade811&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ## 👩‍💻 About Me
 
