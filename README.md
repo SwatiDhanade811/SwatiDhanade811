@@ -5,7 +5,7 @@
 
 ---
 <!-- Profile Views -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=SwatiDhanade811&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
