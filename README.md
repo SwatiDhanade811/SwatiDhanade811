@@ -1,11 +1,11 @@
-<!-- Banner Image -->
+<!-- Typing Animation for Greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E5484&height=220&section=header&text=Swati%20Dhanade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Design%20Engineer%20|%20AI/ML%20%26%20Data%20Science%20Aspirant&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Swati+Dhanade!+👋" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+Design+Engineer+at+Boeing;Aspiring+AI%2FML+%26+Data+Science+Professional;Python+%7C+SQL+%7C+Machine+Learning;Learning+and+Building+Every+Day" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E5484&height=220&section=header&text=Electronics%20Design%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Data%20Science%20Aspirant&descAlignY=55&descSize=18" />
 </p>
 
 ---
@@ -44,11 +44,18 @@ I am actively transitioning into **AI/ML and Data Science**, with a strong found
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [dhanadeswati@gmail.com](mailto:dhanadeswati@gmail.com)  
-- 💼 **LinkedIn:** [Swati Dhanade](https://www.linkedin.com/in/swati-dhanade-ab298b285/)  
-- 💻 **GitHub:** [SwatiDhanade811](https://github.com/SwatiDhanade811)  
+<p align="center">
+  <a href="mailto:dhanadeswati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/swati-dhanade-ab298b285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SwatiDhanade811">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
----
 
 <p align="center">
 ✨ <i>Learning, building, and growing in AI & Data Science</i> ✨
