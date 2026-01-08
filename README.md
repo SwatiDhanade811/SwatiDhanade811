@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Swati+Dhanade!+👋" />
 </p>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E5484&height=220&section=header&text=Electronics%20Design%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Data%20Science%20Aspirant&descAlignY=55&descSize=18" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
