@@ -16,7 +16,6 @@
 ### 🌱 
 
 - 🚀 **Building strong embedded systems fundamentals while focusing on data engineering for scalable career growth.**
-- 💬 Ask me about **Python, SQL, Embedded Systems, Data Analytics**
 - 📫 How to reach me **dhanadesd@gmail.com**
 
 ---
