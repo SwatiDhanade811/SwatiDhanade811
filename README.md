@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Swati+Dhanade;Embedded+%2B+Data+Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Swati+Dhanade" />
 </p>
 
 <h3 align="center">Engineer at Boeing India</h3>
