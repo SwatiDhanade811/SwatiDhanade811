@@ -8,6 +8,10 @@ Embedded Software Engineer at Boeing India. B.Tech in Electronics & Telecommunic
 
 <br/>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=SwatiDhanade811&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 - 🚀 Currently deepening skills in FreeRTOS, Linux Device Drivers & Yocto
 
 - 🎯 Focused on Aerospace, Automotive & Safety-Critical Systems
@@ -76,14 +80,6 @@ Embedded Software Engineer at Boeing India. B.Tech in Electronics & Telecommunic
 
 <p align="center">
 <a href="https://github.com/SwatiDhanade811"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwatiDhanade811&theme=github_dark" width="100%"/></a>
-</p>
-
----
-
-## Visitor Count:
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=SwatiDhanade811&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
